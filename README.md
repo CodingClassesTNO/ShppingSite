@@ -13,3 +13,7 @@ Welcome to **ShopEasy**, your one-stop online shop for all your needs!
 - Track your orders and view purchase history
 
   Website : [Check our Shopping site](https://codingclassestno.github.io/ShppingSite/)
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/a7029e64-790c-46c7-ad6b-ed4f6299971e)
