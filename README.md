@@ -12,6 +12,17 @@ Welcome to **ShopEasy**, your one-stop online shop for all your needs!
 - User-friendly interface with advanced search and filtering
 - Track your orders and view purchase history
 
+### Explanation
+
+- **Features:** Highlights the key features of your shopping site.
+- **Getting Started:** Provides instructions on how to clone the repository, install dependencies, and start the development server.
+- **Usage:** Explains how to browse products, add items to the cart, and complete the checkout process.
+- **Documentation:** Links to more detailed documentation.
+- **Contributing:** Describes how others can contribute to the project.
+- **Issues:** Provides a link for reporting issues.
+- **License:** Includes the project's license information.
+- **Contact:** Offers a way for users to get in touch with you.
+
 ## Website : [Check our Shopping site](https://codingclassestno.github.io/ShppingSite/)
 
 ## Screenshots
